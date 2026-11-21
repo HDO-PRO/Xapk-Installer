@@ -1,3 +1,7 @@
+> **HDO PRO has officially shut down.** Development has ended and this repository is no longer maintained or monitored. Content remains published for archival purposes only. Thank you to everyone who supported the project.
+
+---
+
 # 📦 HDO PRO — XAPK Installer Guide
 
 Welcome to the **HDO PRO XAPK Installer Guide**.
